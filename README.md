@@ -11,11 +11,13 @@ Este trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila 
   o As 6 torres, uma estrutura vertical usada para manter as jogadas prévias dos jogadores, e
   visualizar o estado do jogo. Cada torre possui 6 espaços. A diagonal principal esta marcada
   pela linha verde
+  
   <img width="328" height="297" alt="Captura de tela 2025-09-07 130553"   src="https://github.com/user-attachments/assets/fec66398-b70a-4c9d-8ffb-e3eff6c94553" />
   
   o As fichas: Cada jogador recebe 11 fichas de uma cor. Podendo escolher entre Azul,
   Vermelho, Roxo e Branco. Alem das 11 fichas o jogador também recebe 2 fichas pretas.
   Em cada ficha tem escrito um numero indicando a qual torre ela pertence.
+  
   <img width="428" height="137" alt="Captura de tela 2025-09-07 130604" src="https://github.com/user-attachments/assets/db50692b-c29c-4188-bfff-7324cf7e2752" />
   
  • Iniciando o Jogo: 
